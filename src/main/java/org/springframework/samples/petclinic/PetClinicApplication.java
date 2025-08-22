@@ -12,5 +12,6 @@ public class PetClinicApplication extends SpringBootServletInitializer {
         // Added random comment here - 1
         // Added random comment here - 2
         // Added random comment here - 3
+        // Added random comment here - 4
 	}
 }
