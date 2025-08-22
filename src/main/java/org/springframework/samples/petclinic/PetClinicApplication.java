@@ -11,5 +11,6 @@ public class PetClinicApplication extends SpringBootServletInitializer {
 		SpringApplication.run(PetClinicApplication.class, args);
         // Added random comment here - 1
         // Added random comment here - 2
+        // Added random comment here - 3
 	}
 }
